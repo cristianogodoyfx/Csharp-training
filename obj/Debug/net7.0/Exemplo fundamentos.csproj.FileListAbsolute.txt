@@ -1,0 +1,15 @@
+D:\Cris\Exemplo fundamentos\bin\Debug\net7.0\Exemplo fundamentos.exe
+D:\Cris\Exemplo fundamentos\bin\Debug\net7.0\Exemplo fundamentos.deps.json
+D:\Cris\Exemplo fundamentos\bin\Debug\net7.0\Exemplo fundamentos.runtimeconfig.json
+D:\Cris\Exemplo fundamentos\bin\Debug\net7.0\Exemplo fundamentos.dll
+D:\Cris\Exemplo fundamentos\bin\Debug\net7.0\Exemplo fundamentos.pdb
+D:\Cris\Exemplo fundamentos\obj\Debug\net7.0\Exemplo fundamentos.csproj.AssemblyReference.cache
+D:\Cris\Exemplo fundamentos\obj\Debug\net7.0\Exemplo fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cris\Exemplo fundamentos\obj\Debug\net7.0\Exemplo fundamentos.AssemblyInfoInputs.cache
+D:\Cris\Exemplo fundamentos\obj\Debug\net7.0\Exemplo fundamentos.AssemblyInfo.cs
+D:\Cris\Exemplo fundamentos\obj\Debug\net7.0\Exemplo fundamentos.csproj.CoreCompileInputs.cache
+D:\Cris\Exemplo fundamentos\obj\Debug\net7.0\Exemplo fundamentos.dll
+D:\Cris\Exemplo fundamentos\obj\Debug\net7.0\refint\Exemplo fundamentos.dll
+D:\Cris\Exemplo fundamentos\obj\Debug\net7.0\Exemplo fundamentos.pdb
+D:\Cris\Exemplo fundamentos\obj\Debug\net7.0\Exemplo fundamentos.genruntimeconfig.cache
+D:\Cris\Exemplo fundamentos\obj\Debug\net7.0\ref\Exemplo fundamentos.dll
