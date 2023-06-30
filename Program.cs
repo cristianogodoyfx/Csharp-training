@@ -1,12 +1,16 @@
 ﻿using Exemplo_fundamentos.Models;
 
 
-Calculadora calc = new Calculadora();
+
+
+
+
+/* Calculadora calc = new Calculadora();
 
 calc.RaizQuadrada(9);
 
 
-
+ */
 
 
 /* int NumeroIncremento = 10;
