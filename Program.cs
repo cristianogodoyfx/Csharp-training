@@ -1,11 +1,73 @@
 ﻿using Exemplo_fundamentos.Models;
 
-int numero = 5;
+string? opcao;
+bool exibirMenu = true;
+
+while(exibirMenu)
+{
+    System.Console.WriteLine("Digite a sua opção: ");
+    System.Console.WriteLine("1 - Cadastrar cliente: ");
+    System.Console.WriteLine("2 - Cadastrar cliente: ");
+    System.Console.WriteLine("3 - Apagar cliente: ");
+    System.Console.WriteLine("4 - Encerrar: ");
+
+    opcao = Console.ReadLine();
+
+    switch(opcao)
+    {
+       case "1":
+            System.Console.WriteLine("Cadastro de cliente");
+            break;
+        case "2":
+            System.Console.WriteLine("Busca de cliente");
+            break;
+        case "3":
+            System.Console.WriteLine("Apagar cliente");
+            break;
+        case "4":
+            System.Console.WriteLine("Encerrar");
+            exibirMenu = false;
+            //Environment.Exit(0);
+            break;
+        default:
+            System.Console.WriteLine("Opção inválida");
+            break;
+        
+    }
+
+}
+
+System.Console.WriteLine("Programa está se encerrando.");
+
+/* int soma = 0, numero = 0;
+
+do
+{
+    System.Console.WriteLine("Digite um número (0 para parar)");
+    numero = Convert.ToInt32(Console.ReadLine());
+
+    soma += numero;
+
+} while(numero != 0);
+
+System.Console.WriteLine($"Total da soma dos números digitados é: {soma}");
+ */
+
+/* int numero = 5;
+int contador = 0;
+
+while(contador <= 10)
+{
+    System.Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+    contador++;
+} */
+
+/* int numero = 5;
 
 for (int contador = 0; contador <= 10; contador++)
 {
     System.Console.WriteLine($"{numero} x {contador} = {numero * contador}");
-}
+} */
 
 
 
