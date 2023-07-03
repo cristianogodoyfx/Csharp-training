@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
-      "ExemploFundamentos.Commom/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/ExemploFundamentos.Commom.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ExemploFundamentos.Commom.dll": {}
-        }
-      }
-    }
+    "net7.0": {}
   },
-  "libraries": {
-    "ExemploFundamentos.Commom/1.0.0": {
-      "type": "project",
-      "path": "../ExemploFundamentos.Commom/ExemploFundamentos.Commom.csproj",
-      "msbuildProject": "../ExemploFundamentos.Commom/ExemploFundamentos.Commom.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": [
-      "ExemploFundamentos.Commom >= 1.0.0"
-    ]
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\conta\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cris\\Exemplo fundamentos\\ExemploFundamentos\\Exemplo fundamentos.csproj",
-      "projectName": "Exemplo fundamentos",
-      "projectPath": "D:\\Cris\\Exemplo fundamentos\\ExemploFundamentos\\Exemplo fundamentos.csproj",
+      "projectUniqueName": "D:\\Cris\\Exemplo fundamentos\\ExemploFundamentos.Commom\\ExemploFundamentos.Commom.csproj",
+      "projectName": "ExemploFundamentos.Commom",
+      "projectPath": "D:\\Cris\\Exemplo fundamentos\\ExemploFundamentos.Commom\\ExemploFundamentos.Commom.csproj",
       "packagesPath": "C:\\Users\\conta\\.nuget\\packages\\",
-      "outputPath": "D:\\Cris\\Exemplo fundamentos\\ExemploFundamentos\\obj\\",
+      "outputPath": "D:\\Cris\\Exemplo fundamentos\\ExemploFundamentos.Commom\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\conta\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,11 +31,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "D:\\Cris\\Exemplo fundamentos\\ExemploFundamentos.Commom\\ExemploFundamentos.Commom.csproj": {
-              "projectPath": "D:\\Cris\\Exemplo fundamentos\\ExemploFundamentos.Commom\\ExemploFundamentos.Commom.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

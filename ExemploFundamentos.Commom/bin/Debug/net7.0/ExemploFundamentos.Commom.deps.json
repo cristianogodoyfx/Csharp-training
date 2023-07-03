@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "Exemplo fundamentos/1.0.0": {
-        "dependencies": {
-          "ExemploFundamentos.Commom": "1.0.0"
-        },
-        "runtime": {
-          "Exemplo fundamentos.dll": {}
-        }
-      },
       "ExemploFundamentos.Commom/1.0.0": {
         "runtime": {
           "ExemploFundamentos.Commom.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "Exemplo fundamentos/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "ExemploFundamentos.Commom/1.0.0": {
       "type": "project",
       "serviceable": false,

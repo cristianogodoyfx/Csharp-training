@@ -1,7 +1,79 @@
 ﻿using Exemplo_fundamentos.Commom.Models;
 
-Pessoa pessoa1 = new Pessoa();
+List<string> listaString = new List<string>();
 
+listaString.Add("SP");
+listaString.Add("BH");
+listaString.Add("MG");
+
+for(int contador = 0; contador < listaString.Count; contador++)
+{
+    System.Console.WriteLine($"Posição Nº {contador} - {listaString[contador]}");
+}
+
+int contadorForeach = 0;
+foreach(string item in listaString)
+{
+    System.Console.WriteLine($"Posição Nº {contadorForeach} - {item}");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* int [] arrayInteiros = new int[3];
+
+arrayInteiros[0] = 72;
+arrayInteiros[1] = 64;
+arrayInteiros[2] = 50;
+//arrayInteiros[3] = 1;
+
+System.Console.WriteLine("Percorrendo o array com for");
+
+for(int contador = 0; contador < arrayInteiros.Length; contador++)
+{
+    System.Console.WriteLine($"Posição Nº {contador} - {arrayInteiros[contador]}");
+}
+
+System.Console.WriteLine("Percorrendo o array com o foreach");
+
+foreach(int valor in arrayInteiros)
+{
+    System.Console.WriteLine(valor);
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Pessoa pessoa1 = new Pessoa();
+pessoa1.Nome = "Cris";
+pessoa1.Idade = 34;
+pessoa1.Apresentar(); */
 
 /* string? opcao;
 bool exibirMenu = true;

@@ -1,0 +1,12 @@
+D:\Cris\Exemplo fundamentos\ExemploFundamentos.Commom\bin\Debug\net7.0\ExemploFundamentos.Commom.deps.json
+D:\Cris\Exemplo fundamentos\ExemploFundamentos.Commom\bin\Debug\net7.0\ExemploFundamentos.Commom.dll
+D:\Cris\Exemplo fundamentos\ExemploFundamentos.Commom\bin\Debug\net7.0\ExemploFundamentos.Commom.pdb
+D:\Cris\Exemplo fundamentos\ExemploFundamentos.Commom\obj\Debug\net7.0\ExemploFundamentos.Commom.csproj.AssemblyReference.cache
+D:\Cris\Exemplo fundamentos\ExemploFundamentos.Commom\obj\Debug\net7.0\ExemploFundamentos.Commom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cris\Exemplo fundamentos\ExemploFundamentos.Commom\obj\Debug\net7.0\ExemploFundamentos.Commom.AssemblyInfoInputs.cache
+D:\Cris\Exemplo fundamentos\ExemploFundamentos.Commom\obj\Debug\net7.0\ExemploFundamentos.Commom.AssemblyInfo.cs
+D:\Cris\Exemplo fundamentos\ExemploFundamentos.Commom\obj\Debug\net7.0\ExemploFundamentos.Commom.csproj.CoreCompileInputs.cache
+D:\Cris\Exemplo fundamentos\ExemploFundamentos.Commom\obj\Debug\net7.0\ExemploFundamentos.Commom.dll
+D:\Cris\Exemplo fundamentos\ExemploFundamentos.Commom\obj\Debug\net7.0\refint\ExemploFundamentos.Commom.dll
+D:\Cris\Exemplo fundamentos\ExemploFundamentos.Commom\obj\Debug\net7.0\ExemploFundamentos.Commom.pdb
+D:\Cris\Exemplo fundamentos\ExemploFundamentos.Commom\obj\Debug\net7.0\ref\ExemploFundamentos.Commom.dll
