@@ -1,6 +1,9 @@
-﻿using Exemplo_fundamentos.Models;
+﻿using Exemplo_fundamentos.Commom.Models;
 
-string? opcao;
+Pessoa pessoa1 = new Pessoa();
+
+
+/* string? opcao;
 bool exibirMenu = true;
 
 while(exibirMenu)
@@ -37,7 +40,7 @@ while(exibirMenu)
 
 }
 
-System.Console.WriteLine("Programa está se encerrando.");
+System.Console.WriteLine("Programa está se encerrando."); */
 
 /* int soma = 0, numero = 0;
 
